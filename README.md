@@ -1,4 +1,4 @@
 Matlistan
 =========
 
-Order your food through an app...
+Simple app that manipulates data in a database
